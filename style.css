@@ -1,6 +1,7 @@
 body{
     padding: 0;
     margin: 0;
+    background: #121212;
   }
   .middle{
     position: absolute;
@@ -13,11 +14,10 @@ body{
     display: inline-block;
     width: 90px;
     height: 90px;
-    background: #F1F1F1;
+    background: #362f2f;
     margin: 10px;
     border-radius: 30%;
-    box-shadow: 0 5px 15px -5px #00000070;
-    color: #3498db;
+    color: #c7d2d9;
     overflow: hidden;
     position: relative;
   }
