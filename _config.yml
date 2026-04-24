@@ -1,0 +1,25 @@
+title: Osni B. Junior
+tagline: Personal blog
+description: >-
+  Personal blog by Osni B. Junior — technical and non-technical writing about
+  software, work, and life.
+author: Osni B. Junior
+email: hi@osnibjunior.dev
+url: https://osnibjunior.dev
+lang: en
+
+permalink: /:year/:month/:slug/
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .jekyll-cache

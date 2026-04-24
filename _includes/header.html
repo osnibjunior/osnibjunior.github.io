@@ -1,0 +1,11 @@
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-header__brand" href="{{ '/' | relative_url }}" aria-label="Home">OSNI</a>
+
+    <nav class="site-header__nav" aria-label="Primary">
+      <a href="{{ '/' | relative_url }}">Posts</a>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      {% include theme-toggle.html %}
+    </nav>
+  </div>
+</header>
