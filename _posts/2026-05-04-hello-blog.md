@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-date: 2026-05-14 11:00:00 +0000
+date: 2026-05-04 11:00:00 +0000
 tags: [tech, blog]
 ---
 
@@ -9,13 +9,13 @@ Hey, this's my first post!
 
 <!--more-->
 
-## A new beginning
+## 🇺🇸 A new beginning
 
 Ever since I bought this domain, still in the early stages of sale by Google Domains, I've always had the desire and the will to transform it into a blog, to use it to share interests and day-to-day issues about the world of technology.
 
 Basically, after almost 6 years, I decided to do this (with the help of Claude Code) and transformed this old site, which previously served as a link aggregator, into a blog, where I hope to share small portions of knowledge about the IT field and anything else I want.
 
-## Um novo começo
+## 🇧🇷 Um novo começo
 
 Desde que eu comprei este domínio, ainda em fase inicial da venda pelo Google Domains, sempre tive o desejo e a vontade de transformá-lo em um blog, de usá-lô para compartilhar interesses e questões de dia-a-dia sobre o mundo da tecnologia.
 
