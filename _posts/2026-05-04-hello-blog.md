@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Hello blog :)"
-date: 2026-05-14 11:00:00 +0300
+title: "Hello World"
+date: 2026-05-14 11:00:00 +0000
 tags: [tech, blog]
 ---
 
-Hey, check my first post!
+Hey, this's my first post!
 
 <!--more-->
 
